@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/my-profile-fabio-festa/"><img src="https://img.shields.io/badge/LinkedIn-Fabio_Festa-ff784f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1d2b" alt="LinkedIn"></a>
   <a href="https://mekaigames.com"><img src="https://img.shields.io/badge/Website-mekaigames.com-ff784f?style=for-the-badge&labelColor=1a1d2b" alt="mekaigames.com"></a>
   <a href="https://github.com/mekai-games"><img src="https://img.shields.io/badge/GitHub-mekai--games-ff784f?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1d2b" alt="Mekai Games on GitHub"></a>
 </p>
